@@ -1,5 +1,6 @@
 ---
 title: Account Management
+parent: Resources
 ---
 
 # Account Management
