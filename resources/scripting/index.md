@@ -1,5 +1,6 @@
 ---
 title: Scripting
+parent: Resources
 ---
 
 # Scripting
