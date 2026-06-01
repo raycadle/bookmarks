@@ -1,0 +1,10 @@
+title: Bookmarks
+description: Bookmarks.
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: dark
+enable_dark_mode: true
