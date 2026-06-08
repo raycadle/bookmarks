@@ -7,6 +7,8 @@ parent: Resources
 
 ## [Bash Guide for Beginners](https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
 
+- An introduction to shell scripting.
+
 ## [CommandLineFu](https://www.commandlinefu.com/commands/browse)
 
 - commandlinefu.com is the place to record those command-line gems that you return to again and again.
