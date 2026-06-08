@@ -1,6 +1,6 @@
 ---
 title: Creative
-parent: Resources
+parent: Tools
 ---
 
 # Creative
